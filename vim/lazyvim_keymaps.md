@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# ⌨️ Keymaps
+#  Keymaps
 
 **LazyVim** uses [which-key.nvim](https://github.com/folke/which-key.nvim) to help you remember your
 keymaps. Just press any key like `<space>` and you'll see a popup with all
